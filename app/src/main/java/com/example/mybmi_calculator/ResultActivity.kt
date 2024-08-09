@@ -3,7 +3,6 @@ package com.example.mybmi_calculator
 import android.graphics.Color
 import android.os.Bundle
 import android.widget.Button
-import android.widget.EditText
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
